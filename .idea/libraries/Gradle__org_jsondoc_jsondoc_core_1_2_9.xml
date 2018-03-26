@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jsondoc:jsondoc-core:1.2.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsondoc/jsondoc-core/1.2.9/b371836bd6c42f524e5d005d838567fa52b53858/jsondoc-core-1.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsondoc/jsondoc-core/1.2.9/4074677668e33601c987ebb4768468e59ea82e0e/jsondoc-core-1.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
